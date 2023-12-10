@@ -1,2 +1,10 @@
+
+
+
+
 #!/bin/bash
-cd -al . .. /boot
+
+
+
+
+ls  -al . .. /boot
